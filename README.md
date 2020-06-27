@@ -12,4 +12,9 @@ This App was released to Google Playstore but was rejected by Google due to new 
 
 # Screenshots: ----------------------------------------------
 
-<img src="app/Images/Screenshot_2020-06-06-18-01-17-827_com.example.chinamuktbharat.PNG">
+<img src="app/Images/HomeScreen.PNG">
+<img src="app/Images/DeviceInfo.PNG">
+<img src="app/Images/Alternatives.PNG">
+<img src="app/Images/ScanResult.PNG">
+<img src="app/Images/SystemApps.PNG">
+<img src="app/Images/NoChinaApps.PNG">
