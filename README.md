@@ -12,9 +12,9 @@ This App was released to Google Playstore but was rejected by Google due to new 
 
 # Screenshots: ----------------------------------------------
 
-<img src="app/Images/HomeScreen.PNG">
-<img src="app/Images/DeviceInfo.PNG">
-<img src="app/Images/Alternatives.PNG">
-<img src="app/Images/ScanResult.PNG">
-<img src="app/Images/SystemApps.PNG">
-<img src="app/Images/NoChinaApps.PNG">
+<img width="200" alt="portfolio_view" src="app/Images/HomeScreen.jpg">
+<img width="200" alt="portfolio_view"src="app/Images/DeviceInfo.jpg">
+<img width="200" alt="portfolio_view"src="app/Images/Alternatives.jpg">
+<img width="200" alt="portfolio_view"src="app/Images/ScanResult.jpg">
+<img width="200" alt="portfolio_view"src="app/Images/SystemApps.jpg">
+<img width="200" alt="portfolio_view"src="app/Images/NoChinaApps.jpg">
