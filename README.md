@@ -18,3 +18,11 @@ This App was released to Google Playstore but was rejected by Google due to new 
 <img width="200" alt="portfolio_view"src="app/Images/ScanResult.jpg">
 <img width="200" alt="portfolio_view"src="app/Images/SystemApps.jpg">
 <img width="200" alt="portfolio_view"src="app/Images/NoChinaApps.jpg">
+
+# Video : --------------------------------------------------
+
+Check out on Youtube : 
+
+https://youtu.be/XPSKsq_NFEI
+
+
