@@ -1,0 +1,36 @@
+{
+  "CamScanner": {
+    "Adobe Scan": "com.adobe.scan.android",
+    "Microsoft Office Lens": "com.microsoft.office.officelens",
+        "ScanPro App": "net.doo.snap"
+  },
+  "Shareit, Xender": {
+    "Google Files": "com.google.android.apps.nbu.files",
+    "JioSwitch": "c2_packageName",
+    "ShareAkk": "c1_packageName"
+  },
+   "UC Browser ": {
+    "Google Chome": "com.google.android.apps.nbu.files",
+    "Mozzila Firefox": "c2_packageName",
+    "Opera": "c1_packageName"
+  },
+  "Tikto, Helo, Likee": {
+    "Mitron": "com.google.android.apps.nbu.files",
+    "Vimeo": "c2_packageName",
+    "Periscope": "c1_packageName"
+  },
+   "Tencent PUBG": {
+    "Fortnight": "com.google.android.apps.nbu.files",
+    "Free Fire": "c2_packageName"
+},
+  "Club Factory": {
+    "Myntra": "com.google.android.apps.nbu.files",
+    "Snapdeal": "c2_packageName",
+        "ShopClues": "c2_packageName"
+  },
+  "App Lock": {
+    "MaxLock": "com.google.android.apps.nbu.files",
+    "ToolWiz": "c2_packageName",
+        "FOSS App Lock": "c2_packageName"
+  },
+}

@@ -1,0 +1,95 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/black</item>
+        <item name="android:fontFamily">@font/poppins_font</item>
+    </style>
+
+    <style name="MaterialAnimations.Icon.Small">
+        <item name="android:layout_width">48dp</item>
+        <item name="android:layout_height">48dp</item>
+    </style>
+
+    <style name="MaterialAnimations.TextAppearance.Title.Inverse" parent="android:TextAppearance.Material.Title">
+        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.RoundedCornerMaterialButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:background">@drawable/circle_24dp</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="MaterialAnimations.TextAppearance.Title" parent="android:TextAppearance.Material.Title">
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+
+    <style name="MaterialAnimations.Red" parent="MaterialAnimations">
+        <item name="android:colorPrimary">@color/theme_red_primary</item>
+        <item name="android:colorPrimaryDark">@color/theme_red_primary</item>
+        <item name="android:textColorPrimary">@color/theme_red_text</item>
+        <item name="android:statusBarColor">@color/theme_red_primary_dark</item>
+        <item name="android:windowBackground">@color/theme_red_background</item>
+        <item name="android:colorAccent">@color/theme_red_accent</item>
+    </style>
+
+
+    <style name="MaterialAnimations" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/material_animations_primary</item>
+        <item name="android:colorPrimaryDark">@color/material_animations_primary_dark</item>
+        <item name="android:colorAccent">@color/material_animations_accent</item>
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <item name="android:textColorPrimaryInverse">@color/text_light</item>
+        <item name="android:statusBarColor">@color/material_animations_primary_dark</item>
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">false</item>
+        <item name="android:windowAllowReturnTransitionOverlap">false</item>
+        <item name="android:titleTextAppearance">@style/MaterialAnimations.TextAppearance.Title
+        </item>
+        <item name="android:windowBackground">@color/light_grey</item>
+    </style>
+
+    <style name="MaterialAnimations.Text.Section" parent="Base.TextAppearance.AppCompat.Caption">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="MaterialAnimations.Icon">
+        <item name="android:layout_margin">10dp</item>
+    </style>
+
+    <style name="MaterialAnimations.Icon.Medium.Scaled" parent="MaterialAnimations.Icon.Medium">
+        <item name="android:alpha">0</item>
+        <item name="android:scaleX">0.5</item>
+        <item name="android:scaleY">0.5</item>
+    </style>
+
+    <style name="MaterialAnimations.Icon.Big">
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">150dp</item>
+    </style>
+
+    <style name="MaterialAnimations.Icon.Medium">
+        <item name="android:layout_width">84dp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:layout_height">84dp</item>
+    </style>
+
+    <style name="MaterialAnimations.Button" parent="Base.Widget.AppCompat.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/spacing_normal</item>
+    </style>
+</resources>
